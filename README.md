@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Before running the project
+
+You need to run:
+
+### `npm install`
+
+### `npm install bootstrup`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
