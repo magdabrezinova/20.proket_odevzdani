@@ -1,0 +1,70 @@
+{
+    "categories": [
+      "flowers",
+      "mountains",
+      "castles",
+      "animals"
+    ],
+    "photos": [
+      {
+        "id": 1,
+        "image": "./img/Image1.JPG",
+        "description": "Kopretina",
+        "category": "flowers"
+      },
+      {
+        "id": 2,
+        "image": "./img/Image2.JPG",
+        "description": "Růže",
+        "category": "flowers"
+      },
+      {
+        "id": 3,
+        "image": "./img/Image3.JPG",
+        "description": "Blatouch",
+        "category": "flowers"
+      },
+      {
+        "id": 4,
+        "image": "./img/Image4.JPG",
+        "description": "Drachenwand",
+        "category": "mountains"
+      },
+      {
+        "id": 5,
+        "image": "./img/Image5.JPG",
+        "description": "",
+        "category": "mountains"
+      },
+      {
+        "id": 6,
+        "image": "./img/Image6.JPG",
+        "description": "Kokořín",
+        "category": "castles"
+      },
+      {
+        "id": 7,
+        "image": "./img/Image7.JPG",
+        "description": "Karlštejn",
+        "category": "castles"
+      },
+      {
+        "id": 8,
+        "image": "./img/Image8.JPG",
+        "description": "Lemur",
+        "category": "animals"
+      },
+      {
+        "id": 9,
+        "image": "./img/Image9.JPG",
+        "description": "Lachtan",
+        "category": "animals"
+      },
+      {
+        "id": 10,
+        "image": "./img/Image10.JPG",
+        "description": "",
+        "category": "animals"
+      }
+    ]
+  }
